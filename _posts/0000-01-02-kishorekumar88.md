@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Kishore's slide!"
 ---
-Your text
 make changes!!
